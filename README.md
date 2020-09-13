@@ -1,5 +1,7 @@
 # Ryan Edge #StayWoke
 
+![](https://github-readme-stats.vercel.app/api?username=chimon2000&count_private=true&theme=default&show_icons=true)
+
 Hi there 👋! I'm a [Flutter] Developer @ [Superformula] who is passionate about civic hacking and front-end development on mobile, desktop, and web platforms.  I blog somewhat regularly on [hashnode].  I live in Charlotte, NC but I'm a Louisiana native ⚜️.  I'm a nerd jock 🤓🏃, an anime enthusiast, an epicure, and an advocate for equality ✊🏾 🦄.
 
 - 💬 Ask me about Flutter, Web Components, Anime, or Food
