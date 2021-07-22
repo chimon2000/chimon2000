@@ -7,13 +7,15 @@ Hi there 👋! I am a [Google Developer Expert] in [Flutter] and a Software Engi
 - 💬 Ask me about Flutter, Web Components, Anime, or Food
 - 📫 How to reach me: DM me [@chimon1984] or email me at ryan@cancode.dev
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: You're awesome
+- ⚡ Fun fact: I am a movie buff.
 
 [flutter]: flutter.dev
 [superformula]: http://superformula.com
 [@chimon1984]: https://twitter.com/chimon1984
 [hashnode]: https://chimon.hashnode.dev
 [google developer expert]: https://developers.google.com/community/experts/directory/profile/profile-ryan_edge
+
+I offer freelance software development services including web development, mobile development, and project management.
 
 <!--
 **chimon2000/chimon2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
